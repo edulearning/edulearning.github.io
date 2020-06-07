@@ -8,7 +8,7 @@ twitter_username: edureisMD
 github_username:  EPreis
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 # remote_theme: THEME-NAME
 plugins:
   - jekyll-feed
