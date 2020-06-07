@@ -1,1 +1,14 @@
-theme: jekyll-theme-slate
+title: Edu Learning - Edu Reis' personal blog
+email: edu.pontes@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+   Free thoughts about machine learning. I'm a physician, so I don't have strong technical background, but and I'm learning always (Edu Learning!), so don't don't take me too seriously. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: edureisMD
+github_username:  EPreis
+
+# Build settings
+theme: minima
+# remote_theme: THEME-NAME
+plugins:
+  - jekyll-feed
